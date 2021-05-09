@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mqtt_project</string>
+    <string name="location_name1">系统位置：</string>
+</resources>
